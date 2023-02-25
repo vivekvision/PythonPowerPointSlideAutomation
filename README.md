@@ -1,2 +1,1 @@
-# PythonPowerPointSlides
-Power Point Slides Automation
+# Power Point Slides Automation using python 
